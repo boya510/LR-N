@@ -1,0 +1,552 @@
+>nxrA|EDBNCBINRABD85358.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter hamburgensis X14]
+TDVCESADWYNSKFIVSMASNMXMTRTPDVHFISEARTVGTKFVVLSSDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVTYFVDYIKRYT
+>nxrA|EDBNCBINRAFV59604.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59605.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59606.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59607.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59608.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59609.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59611.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59612.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59613.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59614.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59616.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59617.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59618.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59619.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59620.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59624.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59625.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59626.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59627.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59628.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59629.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59631.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59632.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59633.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59634.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59636.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59637.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59638.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59639.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59640.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59642.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59643.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59645.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59646.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59647.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59649.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59650.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59652.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59653.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59654.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59656.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59657.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59664.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59666.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59667.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59671.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04613.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04615.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04616.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04617.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04618.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04619.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04621.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04622.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04624.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04625.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04626.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04628.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04630.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04632.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04633.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04635.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04636.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04638.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04640.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04641.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04642.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04643.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04644.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04645.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04646.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04647.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04648.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04649.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04651.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15198.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEAHTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15191.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQLAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABD85328.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANLNMTRTPVVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABD85357.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter hamburgensis X14]
+TDVCESADWYNSKFIVSMASNLNMXRTPDVHFISEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRABD85324.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYPDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33103.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+AYWYNSKFIVSMAANLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABD85333.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDXVKRYT
+>nxrA|EDBNCBINRABF82481.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMEANMNMTRTPDVHFIAEARTEGTKFVVLSPDFGQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33121.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+DWYNSKFIVSMASKKNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAFV59630.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWSNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRABF82463.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDAHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33067.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVALAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVTLKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRABD85352.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFXVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15153.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASDLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRCAJ38525.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter winogradskyi]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFT
+>nxrA|EDBNCBINRCAJ38508.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38510.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38522.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRIRINPLFLAGGYAQFTYGWNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRADC33083.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15200.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQARQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15123.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15199.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15202.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33012.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33013.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33014.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33015.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33023.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33024.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33025.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33026.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33027.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33040.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33041.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33061.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33065.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33066.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33070.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33104.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33109.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33115.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]AIY60827.1 nitrite oxidation, partial [uncultured bacterium]AIY60830.1 nitrite oxidation, partial [uncultured bacterium]AIY60831.1 nitrite oxidation, partial [uncultured bacterium]AIY60832.1 nitrite oxidation, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26036.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFAVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15122.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNVTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33081.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYT
+>nxrA|EDBNCBINRAIY26040.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIPEARTEGTKFVVLSPDSSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33057.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33058.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAGE15194.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33102.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAGE15133.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESANWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82471.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82483.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82485.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82487.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82476.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTRFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRRVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15245.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKYIVSMAANMDMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15276.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWKAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26054.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26055.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKGYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAIY26066.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPVQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33108.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ANWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABF82469.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPGVHFIAEARTEGTKYVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYSIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15295.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAAYHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33071.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33072.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33084.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33096.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33107.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33116.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAFV59602.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04623.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHLIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRADC33073.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33074.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15152.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15232.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKIIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15220.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26020.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+AGWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAIY26027.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWVAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33008.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33009.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33010.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33011.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33029.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33049.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33051.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33086.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33087.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33099.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]AFV59648.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59660.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59663.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59665.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59669.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY60845.1 nitrite oxidation, partial [uncultured bacterium]AIY60846.1 nitrite oxidation, partial [uncultured bacterium]AIZ04650.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRBAN79033.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEAQTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82493.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAFV59603.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04634.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHIILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15169.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMATNHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33069.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33092.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33106.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYT
+>nxrA|EDBNCBINRAGF29466.1 nitrite oxidoreductase alpha subunit, partial [Nitrospina gracilis 3/211]
+HSAWQSTERSVKAHEERPDGRALSMTTPYQSNFRYGGQQSITRSWLMPMHQTDSLFHKSKTKMKFVHGYEADNHAINATPKETLVKFSKAEDGGMHGKGLWEPARTGYTPESPLKDRFAEMYLAGQYVRVKI
+>nxrA|EDBNCBINRBAN79002.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79004.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79005.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79006.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79008.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79009.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79010.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79011.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79012.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79013.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79015.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79017.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79018.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79019.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79020.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79022.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79023.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79024.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79025.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79026.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79027.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79028.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79030.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79031.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79032.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79034.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79036.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79037.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79038.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79040.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]BAN79041.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15129.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTCTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82477.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDAHFIAEARTEGTKFVVLSPNFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33101.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRCAJ38505.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38506.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38513.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRODS34602.1 nitrite oxidoreductase alpha subunit [Candidatus Scalindua rubra]
+MKLTRRTFIKIAGGITAAVSIPTRKALAFKSLKPAVEVVNPLDYYPEREWEDVYRNQYRYDRSFSFCCSPNDTHQCRVRAFVRNNVVVRTEQDYEHQDYTDIEGRQPQRSWNPRMCLKGFTLFRRVYGPHRLRFPILRKGWKQWADDGFPELDWENREKYKFTSRGTDEHIRMSWDNILDYVARGMIHIAKTYSGEEGKKRLLERDKYAPETLTHWHGAGTRCFKTRGGMGLLGVIGKYMGQYRFCNMLALLDANVRGVGPDKAQGGRRFSNYTWHGDQAPGHPFSHGLQTSDIDFADLRYSKLTIQVGKNLIENKMPESHWLTEIIERGGKIVVIAPEYNPAATKADYWIPVRTGLSDTSIFLCIAKILIDKKWYDEDYVKKFTDFPLLVRTDTLKRLKADEIFENYKHEKLEYSKEVQGLKDKQREQIGDFVVYDKKSKGFKAITREDVGKKLFAKGIDPSLEGTYKVKTLDGKEVEVMTLFDMYKVHLRDFDVKTTSDITGSPAHLIERLAKDVATIKPVSIHYGEGINHYFHATLHNRATYLPLMLTGNVGYHGSGSHTWAGNYKAGNFQASKWSGPGFKGPIAEDPFNMNLDPYLDGKKVKARSYAMDEEVAFWNHGDTPLIVNTPKYGKKCFTGKTHLNTPTKSLWFNNVNLINNAKWVYEMLKNVGPKIDLIMSSDVIMTASVQYADVGLPANSWMEFETYEVTSACSNPFLQVWKGGIRPLHDSKDDVLMSALLAKKIGDILGDGRFADYWKFALEGRPEVYMQRLFDGSVPTRGYKVNDIIAGKYGVPGGALMNFHTYPRLPLYEQVTYDRPFFTDDGRLHAYCDIPEAIEYGENFICHREAVEATPYLPNAIVSTNPYIRPDDYGVPKSHMGADERHVRNIKMPWSEVKKTKNPLWERGYKFFCVTPKTRHRVHSQWSTVDWNLIWDSNFGDPYRMDKRSPGVGEHQLHINPQAAKDLGINDGDYIYVDANPVDRPYRTWKPNDPFYKVARLMVRAKYNPAYPYHTTMMKHAPYVATEKSVKAHETRSDGMAMSSDGYLSNFRYGSQQSITRSWLMPMHMTDTLFHKKKVAMAYMHGGEADNHTVNTVPKETLVRITKAEDGGLGAKGIWEPSKTGFTPANESKFMKLYLEGGTTKVE
+>nxrA|EDBNCBINRBAN79016.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGRDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33100.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIVEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAGE15233.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLP
+>nxrA|EDBNCBINRAGE15291.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALCMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABD85335.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYCIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRABF82489.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNMNMTRIPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFINYVRRYTDLPFLV
+>nxrA|EDBNCBINRAGE15255.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQTGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26045.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAAKMNMTRTPDVHFISEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMVANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33082.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33030.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHSIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33019.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33020.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYIKRYT
+>nxrA|EDBNCBINRADC33112.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAGE15188.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLTPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABD85343.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSRFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDMALWMAANHVILKEYYIDRQVPXFIDYVKRYT
+>nxrA|EDBNCBINRAPG55505.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55506.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55507.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55508.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55510.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55513.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55517.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRABF82492.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDCVKRYTDLPFLV
+>nxrA|EDBNCBINRAPG55511.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIPEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAPG55516.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPGVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15121.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDAALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15156.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCGEWIPIQAGQDTALWMAANHVIPKEYYIDRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABF82460.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82462.1 nitrite oxidoreductase alpha subunit, partial [bacterium]AIS41024.1 nitrate reductase subunit A, partial [Nitrobacter hamburgensis]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGRDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15147.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYINRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15247.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFITEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79021.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMSMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRCAJ38516.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLLLAGGYAQFTYGFNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRAFV59662.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGAKFVVLAPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26070.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTKGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAAQ14968.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter winogradskyi]
+KWEEFYRNRWSHDNVFRSTHGVNCTGGCSWAIYVKDGIITWEMQQTDYPLLERSLPPYEPRGCQRGISASWYVYSPIRVKYPYVRGPLYDLWKEAKASHPDPVQAWASLVGDEQKRSRIQKARGKGGFRRAKWEELVELIAAAALYTARKYGPDRVMGFSPIPAMSMLSYAAGSRFLQLFGGVNMSFYDWYADLPTSFPEIWGDQTDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVELEPNGNTYKTGRLLRSNRVARYKDVENGEWKMLVLDTATGEPRAFKGQVGDRWGSTHGKWNLSAEDTLDNSPIDPVLSFIDQSDGVVQVGFDDFVNGSVVSRGVPVKRIATDKGEVLVATGFDIMMSQFGHSRGLEGSFATSYDDEDAPYTPAWQERHTGIGRETAIRFAREFATNAELTNGKSMVIVGASANHWYYNNLCYRSATVALILCGCCGVNGGGINHYVGQEKLAPVAPWNTIAMALDWTKPPRVVQSSTWHYAHSCQWRYEQEFTEYGLTAPNPRWAKGHAIDLEAKSVRCGWMPFTPHFNRNPIELAAEAERAGAKSSADIVTHVVDQVTSKKVNFAIDDPDAEESWPRMWFIWRGNAIQSSAKGHEFFLRHYLGAHDNSIAEDRAKGKTQRVKYRDTAPRGKYDLVVDLNFRMNTTSLYSDIVLPTAFWYEKNDLNTTDLHSFLHVLGQAVPPVWESKTDWEIFKLISKKVSELSPLAFSKPVRDVVVQPLMHDTPDELAQPEILDWAEGECKPVPGKSFPHVRVVERDYANLYNKFISFGPKAREDGVSAVGVNIPIKKQYDQMLDNPIMPMPDARHMRCVEWGGKRYPSLEDVLDACNTLLVCAPEANGEVCYQGFHNEEHHVGLPLVDIAEPTRGVSSTFYDLTRQPRRILTSPCWTGLVNDGRAYSAWCMNVERLVPWRTLTGRQSLYLDHQWYLDFGEHIPTYKPRLNPRKTGDIVKSRVDDRSLVLNYITPHGKWNIHSTYKDNHRMLMLSRGMDPVWINDRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHVVVRKMEKLEW
+>nxrA|EDBNCBINRAGE15214.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNTTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15124.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDMHFIAEARTEGTKFVVLSPNFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33122.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+AEGYNSKFIVSMAANKNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABF82473.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWTAANHVILKEYYIDRQVPYFIDYAKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26037.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFVSEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRANS81403.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrospina sp.]
+WLMPMHQTDSLFHKAKSKMKFMHGYEADNHAVNAVPKETLVKFSKAEDG
+>nxrA|EDBNCBINRABD85339.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85340.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85359.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]ABD85360.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABD85341.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85342.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDMALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26041.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWTAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRKHE93157.1 nitrite oxidoreductase alpha subunit [Candidatus Scalindua brodae]
+MKLTRRTFMKVAGGVTAAVSIPMRNALAFKSLKPAVEVDNPLDSYPDRNWEDVYRNQYKYDRSFPFVCSPNDTHQCRVRAFVRNGVVIRVEQDYEHQDYGDLEGRKPQRSWNPRMCLKGFTFFRRVYGPHRLRFPLLRKGWKQWADDGFPELDWNAREKYKFTTRGTDEQLKMSWDDIIDYVAKGMIAIARAYSGEEGKKRLLERDKYAPETLTHWNGAGTRCFKNRGGMGLLGVIGKYMGMYRFSNMLALLDANVRGVGADKAMGGRRFSNYTWHGDQAPGHPFVHGLQASDVDFADLRYSKLVIQVGKNLIENKMPEAHWLTEVIERGGKLVVITPEYSPSATKADYWIPCRTGISDTTIFLTMTKIIMDNKWYDTDFVKKFTDFPLLVRTDTLKRLQPHEIIKDYKQPELDYSHSVQGLTKDQRGQLGDFVVYDSKTKDFKAITREDVGKKMMAKGIDPSLEGTFQVKTVDGKTVEVMTLFDLYKIHLRDFDVKTTADITGAPAHMIERLAKDCATIKPVAIHYGEGINHYFHATLHNRATYLPLMLTGNIGYHGSGSHTWAGNYKAGNFQGSKWSGPGFKGIIAEDPFDMNLDPHADGKNIHAHSYAMDEEVAYWNHGDTPLIVNTPKFGRKSFTGETHYNTPTKVLWFNNVNLINNAKWVYEMMKNVNPRIDLIISSDIMMTSSIQYADVGFPVNSWMEFEHYEVTCSCSNPFLQVWKGGIKPLHDTKDDVMVPALVSKRMGELLGDRRFADYWKFALEDRPEVYMQRLFDGSVPTRGYNVNDMIAGKYGVPGGALLNFGTYPRTPMYEQVVYDRPFHTDDGRLHSYCDIPEAIEYGENFVCHREAIEATPYLPNVIVSTNPYIRPEDYGIPQSHMGADERHIRNIKMPWSEVKKTKNPLWEKGYRFYCVTPKTRHRVHSQWSTVDWNLIWNNNFGDPYRMDKRSPGAGEHQLHINPAAAKDLAINDGDYIYVDANPVDRPYRGWKPNDPFYKVARLMVRAKYNPSYPYHTTMMKHSTNVATEKSVKAHENRKDGMAMSKDGYLSNFRYGSQQSITRSWLMPMHQTDTLFHKKKVFMGFMHGGEADNHVVNTVPKETLVRITKAEDGGLGAKGVWEPARTGFTPANESKFMKLYLQGGTTSVE
+>nxrA|EDBNCBINRADC33036.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33095.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26039.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHAILKEYYIDRQVPYFIDYEKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15223.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTCTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15258.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFVAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRCAJ38519.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38520.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+SRTRLGRGLQRHGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRIRINPPFLAGGYAQFTYGWNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRAGE15275.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAEQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82475.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFTDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15201.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWVAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15125.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15132.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15135.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15137.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15159.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15160.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15167.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15170.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15171.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15172.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15173.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15175.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15186.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15187.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15190.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15215.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15234.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15236.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15237.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15244.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15262.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15269.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15282.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15284.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15293.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15294.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82472.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGRDTALWMAANHVILKEYYIDRQVPYFIDHVKRYTDLPFLL
+>nxrA|EDBNCBINRAIY26021.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26022.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26023.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26024.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26025.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26026.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26042.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26043.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26060.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26061.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26062.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26063.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26064.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26065.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRABD85354.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85355.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAFN67075.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82482.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHIILKEYYVDRQVPYFVDYIKRYTDLPFLV
+>nxrA|EDBNCBINRABD85320.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMARTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRBAN79007.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEARTEGTKFVVLPPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAPG55504.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISGARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYSIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAFN67074.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFRQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33114.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYT
+>nxrA|EDBNCBINRCAJ38523.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+TRLGRGLQRHGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRIRINPLFLAGGYAQFTYGWNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRABF82470.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRNTDLPFLV
+>nxrA|EDBNCBINRAIY26069.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANRVILKEYYIERQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRABD85344.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHSIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAAQ14969.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]
+KWEEFYRNRWSHDNVFRSTHGVNCTGGCSWAIYVKDGIITWEMQQTDYPLLERSLPPYEPRGCQRGISASWYVYSPIRVKYPYIRGPLYDLWKEAKASHPDPVQAWASLVGDEQKRLRIQKARGKGGFRRAKWVELVELIAAAALYTARKWGPDRVMGFSPIPAMSMLSYAAGSRFLQLFGGVNMSFYDWYADLPTSFPEIWGDQTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVELEPNGNTYKTGRLLRAKRVARYQDVENGDWKMLVLDAGTGEPRAFKGQVGDRWGSTHGKWNLSAEDTLDNSPIDPVLSFIDQSDGVVQVGFDDFVNGSVVSRGVPVKRIATDKGEVLVATGFDIMMSQFGHSRGLEGSFATSYDDEDAPYTPAWQERHTGIGRETAIRFAREFATNAELTNGKSMVIVGASANHWYYNNLCYRPATVALILCGCCGVNGGGINHYVGQEKLAPVAPWNTIAMALDWTKPPRVVQSSTWHYAHSCQWRYEQEFTEYGLTAPNPRWAKGHAIDLEAKSVRSGWMPFTPHFNRNPIELAAEAERAGAKSTEDIVTHVVDQVASKKVNFAIDDPDADESWPRMWFIWRGNAIQSSAKGHEFFLRHYLGAHDNSIAEDRAKGKTHTVKYRDVAPRGKYDLVVDLNFRMNTTSLYSDIVLPTAFWYEKNDLNTTDLHSFLHVLGQAVPPVWESKTDWEIFKLISKKVSELAPLAFSKPVKDVVVQPLMHDTPDELAQPEILDWAEGECKPVPGKSFPHVRVVERDYANLYNKFISFGPKAREDGVSAVGVNIPIKKQYDQMLDNPVMPMPDARHMRCVEWGGKRYPSLEDVLDACNTLLMCAPEANGEVCYQGFHNEEHHVGLPLVDIAEPTRGVSSTFYDLTRQPRRILTSPCWTGMTNDGRAYSAWCMNVERLVPWRTLTGRQSLYLDHQWYLDFGEHIPTYKPRLNPRKTGDIVKSRVDDRSLVLNYITPHGKWNIHSTYKDNHRMLMLSRGMDPVWINDRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHVVVRKMEKLEW
+>nxrA|EDBNCBINRADC33062.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRABD85348.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85349.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85365.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33042.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+FIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRADC33044.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYIKRYT
+>nxrA|EDBNCBINRADC33059.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33060.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]AIY60901.1 nitrite oxidation, partial [uncultured bacterium]AIY60904.1 nitrite oxidation, partial [uncultured bacterium]AIY60906.1 nitrite oxidation, partial [uncultured bacterium]AIY60908.1 nitrite oxidation, partial [uncultured bacterium]AIY60912.1 nitrite oxidation, partial [uncultured bacterium]AIY60914.1 nitrite oxidation, partial [uncultured bacterium]AIY60916.1 nitrite oxidation, partial [uncultured bacterium]AIY60917.1 nitrite oxidation, partial [uncultured bacterium]AIY60918.1 nitrite oxidation, partial [uncultured bacterium]AIY60921.1 nitrite oxidation, partial [uncultured bacterium]AIY60923.1 nitrite oxidation, partial [uncultured bacterium]AIY60924.1 nitrite oxidation, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15131.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKSIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWTPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15116.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15118.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15119.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15136.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15140.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15143.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15149.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15161.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15166.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15176.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15177.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15180.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15189.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15196.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15212.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15213.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15219.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15224.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15229.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15230.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15235.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15250.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15253.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15260.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15266.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15267.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15270.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15271.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15274.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15277.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15286.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15287.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33037.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33056.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26068.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGLDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRABD85326.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85327.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAFV59641.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59644.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04637.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKLVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRCAJ38500.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38501.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38502.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38507.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38509.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38512.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38514.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38515.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38518.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38521.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38528.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHA
+>nxrA|EDBNCBINRAAQ14966.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter hamburgensis X14]
+KWEEFYRNRWSHDNVFRSTHGVNCTGGCSWAIYVKDGIITWEMQQTDYPLLERSLPPYEPRGCQRGISASWYVYSPIRIKYPYVRGPLLDMWREAKASSADPVQAWGALVGDEQKRARMQKARGKGGYRRAKWEELVELIAAASLHTARKHGPDRIMGFSPIPAMSMLSFAAGTRFLSLMGGSLLSFYDWYADLPTSFPEIWGDQTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIGYVKRYTDLPFLVELEPNGTTYKTGRLLRARHVPRYKDVENGDWKMLLLDANSGELRAPKGQVGDRWGSVHGKWNLSGEDTLDNSPLDPVLSFIDRSDDVVQVGFDDFANGRIVPRGVPVRRIATDKGEILCATGFDIMMSQFGISRGLEGAFATSYDDEDAPYTPAWQERHTGIGRETAIRFAREFATTAEYTNGKSMVIVGASANHWYYNNLCYRSATVALILCGCCGVNGGGINHYVGQEKLAPVAPWASIALALDWSKPPRVVQSSTWHYAHSCQWRYEQEFTEYGLTAPNPRWAKGHAIDLEAKAVRSGWMPFTPHFNRNPIEVAAEAERAGAKSTEDIATHVIDQVASKKLNLAIEDPDAAENWPRLWFIWRGNAIQSSAKGHEFFLRHYLGTHDNAIAEDRAKGKTHTVKYHDTAPRGKYDLVVDLNFRMDTSSLYSDIVLPTAFWYEKNDLNTTDLHSFLHVLGQAVPPVWESKTDWDIFKLIAKKVSELAPLAFSKPVRDVVLQPLMHDTPDELAQPEILDWAEGECKPVPGKSFPHVRVVERDYANLYNKFISFGPKAREDGVSAVGVNVPIKKQYDQMLDNPIMPMPDPRHMRCVEWGGKRYPSLEDVLDGCNTVLLCAPEANGEVCYQAFHNEEHHVGLPLVDLAEPTRNVATTFYDLTRQPRRLLTSPCWTGMMNDGRAYSAWCMNVERLVPWRTLTGRQTLYIDHQWYLDFGEHIPTYKPRLNPRKTGDIVKSRVDDRSLVLNYITPHGKWNIHSTYKDNHRMLMLSRGMDPVWINDRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGWNYWGPTGILTRDTHVVVRKMEKLEW
+>nxrA|EDBNCBINRADC33068.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYT
+>nxrA|EDBNCBINRAGE15278.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNVTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82491.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82494.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYADLPFLV
+>nxrA|EDBNCBINRAIY26067.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQAPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC52862.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+GDWYNSKFIVSMASXKNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15208.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLG
+>nxrA|EDBNCBINRABF82461.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANYVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABD85367.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]ABD85368.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVXLSPDFSMVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABF82466.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDIALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79029.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+NMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDCVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15288.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMVANHVILKEYYIDRQVPYFVDYLKRYTDLPFLVE
+>nxrA|EDBNCBINRBAN79042.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+AANMNMTRTPDVHFIAEARTEGTKFVVLSPDLSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15120.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWCNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWVAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79039.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRDTDLPFLV
+>nxrA|EDBNCBINRAGE15252.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15256.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFXQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82495.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRHTDLPFLV
+>nxrA|EDBNCBINRAGE15257.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHAILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33119.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYSDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAFN67076.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33105.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33117.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYVKRYT
+>nxrA|EDBNCBINRAGE15164.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRCTDLPFLV
+>nxrA|EDBNCBINRADC33021.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33022.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33094.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMSVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15114.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15126.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15182.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15184.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33050.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33120.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33031.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15241.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASYLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15268.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAASHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82468.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYLIDYVKRYTDLPFLA
+>nxrA|EDBNCBINRAFV59651.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59655.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04614.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNGKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAFV59635.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04639.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDGWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRABD85363.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter winogradskyi]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAGNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26031.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26032.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26033.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26034.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26035.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26044.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26046.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26047.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26048.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26049.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26050.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26053.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26056.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26057.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26058.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAIY26028.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLPPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33110.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYIKRYT
+>nxrA|EDBNCBINRAPG55509.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55512.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]APG55514.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15210.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVRFIAEARTEGTKFVVLSPDFSQTAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAFE61700.1 nitrite oxidoreductase, partial [uncultured bacterium]AFE61706.1 nitrite oxidoreductase, partial [uncultured bacterium]AFE61708.1 nitrite oxidoreductase, partial [uncultured bacterium]AFE61710.1 nitrite oxidoreductase, partial [uncultured bacterium]AGE15127.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15128.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15130.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15139.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15144.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15145.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15151.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15185.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15193.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15222.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15225.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15238.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15239.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15246.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15248.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15263.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15265.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15272.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15279.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15280.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15281.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15285.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33113.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+GDWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAIY26051.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIY26052.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGRDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15259.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWNPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15218.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMIMTRTPDVHFISEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82478.1 nitrite oxidoreductase alpha subunit, partial [bacterium]ABF82479.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAFN67073.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPVQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15117.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPXFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79003.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQGTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABD85338.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASSLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVXLKEYYIDRQVPXFIDYXKRYT
+>nxrA|EDBNCBINRABD85346.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADXYNSKFXVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABD85350.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFXVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTXLWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33085.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRCAJ38527.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter winogradskyi]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRXRINPXFLAGGYAQFTXGFXYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRBAN79014.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+VSMAANMNMTRTPDVHLIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRANS81401.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrospina sp.]ANS81402.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrospina sp.]
+WLMPMHQTDSLFHKAKSKMKFLFGYEADNHAVNAVPKETLVKFSKAEDGGLHGKGLWEPVRTGYTPESPLKDRFAEMYLA
+>nxrA|EDBNCBINRCAJ38504.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]CAJ38511.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRIRINPLFLAGGYAQFTYGWNYWGPTGIFTRDTHA
+>nxrA|EDBNCBINRADC33043.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKKYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRADC33039.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33045.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33052.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33053.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33054.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33055.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRABF82496.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAAQ14967.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]
+KWEEFYRNRWSHDNVFRSTHGVNCTGGCPWAIYVKDGIITWEMQQTDYPLLERSLPPYEPRGCQRGISASWYVYSPIRIKYPYVRGPLYDMWREAKASYPDPVQAWASLVGDEQKRLRMQKARGRGGYRRAKWEELVELIAAAALYTARKWGPDRVMGFSPIPAMSMLSYAAGSRFLQLFGGVNMSFYDWYADLPTSFPEIWGDQTDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVELEPNGNTYKTGRLLRSNRVARYKDVENGEWKMLVLDTGTGEPRAFKGQVGDRWGSTHGKWNLSAEDTLDNSPIDPVLSFIDQSDGVVQVGFDDFVNGSVVSRGVPVKRIATDKGEVLVATGFDIMMSQFGHSRGLRGSFATSYDDEDAPYTPAWQERHTGIGRETAIRFAREFATTAELTNGKSMVIVGASANHWYYNNLCFRSATVALILCGCCGVNGGGINHYVGQEKLAPVAPWNTIAMALDWTKPPRVVQSSTWHYAQSCQWRYEQEFTEYGLTAPNPRWAKGHAIDLQAKAVRSGWMPFTPHFNRNPIELAAEAERAGAKSTEDIVTHVVDQVASKKVNFAIDDPDADESWPRMWFIWRGNAIQSSAKGHEFFLRHYLGAHDNSIAEDRARGKTHTVKYRDTAPRGKYDLVVDLNFRMDTSSLYSDIVLPTAFWYEKNDLNSTDLHSFLHVLGQAVPPVWESKTDWEIFKLIAKKVSELAPLAFSKPVRDVVAQPLMHDTPDELAQPEILDWAEGECKPVPGKSLPHIRVVERDYANLYNKFISFGPKAREDGVSAVGVQIPIKKQYDQMLDNPVMPMPDPRHMRCVEWGGKRYPSLEDVLDACNTLLICAPEANGEVCYQGFHNEEHHVGLPLVDIAEPTRSVSATFYDLTRQPRRILTSPCWTGLTNDGRAYSAWCMNVERLVPWRTLTGRQTLYIDHQWYIDFGEHIPTYKPRLNPRKTGDIVKSRVDDRSLVLNYITPHGKWNIHSTYKDNHRMLMLSRGMDPVWINDRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHVVVRKMEKLEW
+>nxrA|EDBNCBINRAIY26072.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEDTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYLIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33046.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33047.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33048.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33097.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33098.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYIKRYT
+>nxrA|EDBNCBINRABD85361.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]ABD85362.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter alkalicus]ABD85364.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter winogradskyi]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRANS81405.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrospina sp.]
+WLMWMHQTDTPFHKAKSKMWFMFGYEADNHAVNAVPKETLVKFSKAEDGGLQGKGLWEPVRTGYTPESPLKDRFAEMYLA
+>nxrA|EDBNCBINRABD85356.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAXQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRBAN79043.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+MASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26030.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHLISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15228.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTKGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC52863.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARXXXXXFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAGE15197.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDKWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15178.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASDLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQGGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABF82480.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNLNVTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79044.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+MNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33016.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRANS81404.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrospina sp.]
+WLMPMHQTDTLFHKAKSKMKFLFGYEADNHAVNAVPKETLVKFSKAEDGGLHGKGLWEPVRTGYTPESPLKDRFAEMYLA
+>nxrA|EDBNCBINRABF82488.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33077.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMKRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGRDTALWMAANHVILKEYYIDRQVPYFIDYIKRYT
+>nxrA|EDBNCBINRADC33093.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+IVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYTD
+>nxrA|EDBNCBINRAGE15148.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTECTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82453.1 nitrite oxidoreductase alpha subunit, partial [Nitrococcus mobilis]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARHEGAKFVVLAPDFSQVSKYADWWIPVKKGEDLGLWMAAGHVXLTEFYVKRQVPYFIDYVXRYTDLPFLV
+>nxrA|EDBNCBINRABF82486.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEAHTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANRVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82474.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLRRYTDLPFLV
+>nxrA|EDBNCBINRADC33076.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNTTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDAALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAFV59610.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04620.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMPANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAFV59621.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59623.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04631.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNSNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRADC33118.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+YNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLP
+>nxrA|EDBNCBINRAGF29469.1 nitrite oxidoreductase alpha subunit, partial [Nitrospina gracilis 3/211]
+HSCWTSTERSVKAHEERPDGRALSMTTPYQSNFRYGGQQSITRSWLMPMHQTDSLFHKAKSKMKFMFGYEADNHAINATPKETLVKFSKAEDGGMHGKGLWEPVRTGYTPESPLKDRFAEMYLAGQYIRVKI
+>nxrA|EDBNCBINRAIY26071.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRCAJ38517.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGADRHLHNATPM
+>nxrA|EDBNCBINRAGE15181.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYLVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15115.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15141.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15142.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15154.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15155.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15157.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15158.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15162.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15163.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15165.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15174.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15192.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15206.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15207.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15209.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15211.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15216.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15217.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15226.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15231.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15264.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15289.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15292.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33111.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQICKYCDEWIPIQAGQDTALWMAVNHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15134.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+TDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15150.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQTAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRADC33032.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33033.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33034.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33035.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33078.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33088.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]AIY60839.1 nitrite oxidation, partial [uncultured bacterium]AIY60840.1 nitrite oxidation, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRABD85366.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLXAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15243.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKFCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABD85347.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADXYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKXCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABF82464.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANLNMTRTPDVHFIAEARTEGTKFVVLSSDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAFV59658.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59659.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59661.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59668.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59670.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59672.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNAGFIIVWGSNVPRTRTPDAHFYTEVRYKGTKSAVVSPDYAEATKFADIWLNPKQGTDAALALAMGHVILREYYLDRTVPYFDDYARKYT
+>nxrA|EDBNCBINRAGE15204.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKCCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26029.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNPKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILREYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15227.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDECIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABD85329.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85330.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85331.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85332.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRADC33075.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33079.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33089.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33090.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABF82490.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPGFSQACKYSDEWIPIQAGQDTALWMAANHVILKGYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15195.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESTDWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAPG55515.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33017.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33018.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33028.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33064.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ADC33091.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRCAJ38524.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter hamburgensis]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGWNYWGPTGILTRDTH
+>nxrA|EDBNCBINRAIY26019.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDAALWMAANHVILKEYYVDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRABD85334.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85336.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85337.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRADC33063.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLAPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYIKRYT
+>nxrA|EDBNCBINRAIY26038.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLSPNFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRAGE15168.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVTLKEYYVDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAIY26059.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTTFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLVE
+>nxrA|EDBNCBINRCAJ38526.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter vulgaris]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGXNYWGPTGIFTRDTHV
+>nxrA|EDBNCBINRABF82467.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKSIVSMAANVNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRCAJ38503.1 nitrite oxidoreductase alpha subunit, partial [Nitrobacter sp.]
+DRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGACMYYHAVERTVYIPKSQERKWRGGGHNSLTRTRINPLFLAGGYAQFTYGFNYWGPTGIFTRDTHA
+>nxrA|EDBNCBINRAFV59615.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AFV59622.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04627.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AIZ04629.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+ADWFNSKFIVSMASNLDMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15254.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAEYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRADC33080.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+PDWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRABD85351.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFXVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYXDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPXFIDYVKRYT
+>nxrA|EDBNCBINRAFE61702.1 nitrite oxidoreductase, partial [uncultured bacterium]AGE15249.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTAPWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRABF82484.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYNSKFIVSMASNLNMSRTPDVHFIAEARTEGTKFVVLSPDFSQIAKHCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAFN67072.1 nitrite oxidoreductase alpha subunit, partial [uncultured Nitrobacter sp.]
+TDVCESADWYNSKFIVSMASNMNMTRTPDVHFISEARTEGTKFVVLAPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYIKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15183.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAASMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15221.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15273.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHVIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABD85319.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85321.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85322.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85323.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]ABD85325.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVCKYSDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRABD85353.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMASNLNMTRTPDVHFISEARTEGTKFVVLSPDFSMVAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15251.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYYVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRBAN79035.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+SMAANMNMTRTPDVHFIAEPRTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15179.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQVAKYCDEWIPIQAGQDTALWMAANHVTLKEYYVDRQVPYFINYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15242.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYADLPFLV
+>nxrA|EDBNCBINRABD85345.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+TDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTXLCMAANHVILKEYYIDRQVPYFIDYVKRYT
+>nxrA|EDBNCBINRAGE15283.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYSIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15138.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEAGTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15146.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWCNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYLKRYTDLPFLV
+>nxrA|EDBNCBINRABF82465.1 nitrite oxidoreductase alpha subunit, partial [bacterium]
+TDVCESADWYDSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15203.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYVDRQVPYFVDYLKRYTDLPFLVE
+>nxrA|EDBNCBINRADC33038.1 nitrite oxidoreductase alpha subunit, partial [uncultured bacterium]
+ADWYNSKFIVSMAANMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQISKYCDKWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLKRYT
+>nxrA|EDBNCBINRAGE15240.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKAYYIDRQVPYFVDYLKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15205.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]AGE15290.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNMNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPLQAGQDTALWMAANHVILKEYYIDRQVPYFIDYVKRYTDLPFLV
+>nxrA|EDBNCBINRAGE15261.1 nitrite oxidoreductase alpha subunit, partial [uncultured nitrite-oxidizing bacterium]
+QTDVCESADWYNSKFIVSMASNLNMTRTPDVHFIAEARTEGTKFVVLSPDFSQIAKYCDEWIPIQAGQDTALWMAANHVILKEYYIDRQVPYFVDYLRRYTDLPFLV
